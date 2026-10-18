@@ -88,10 +88,9 @@ This repository currently documents the product concept and business plan. Propo
 
 Add the actual names and GitHub usernames of the project team members here.
 
-- Team Leader: [Name] — [GitHub Username]
-- Team Member 2: [Name] — [GitHub Username]
-- Team Member 3: [Name] — [GitHub Username]
-- Team Member 4: [Name] — [GitHub Username]
+- Team Leader: [JINPENG HE] — [r00cKet-05]
+- Team Member 2: [PEIXI WU] — [ixiep0310]
+- Team Member 3: [JUN LI] — [LEZHUN01]
 
 Remove any unused placeholders before submission.
 
